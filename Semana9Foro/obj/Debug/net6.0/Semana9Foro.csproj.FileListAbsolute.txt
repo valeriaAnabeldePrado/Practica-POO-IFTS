@@ -1,0 +1,14 @@
+C:\Users\Anabel\source\repos\Semana9Foro\Semana9Foro\bin\Debug\net6.0\Semana9Foro.exe
+C:\Users\Anabel\source\repos\Semana9Foro\Semana9Foro\bin\Debug\net6.0\Semana9Foro.deps.json
+C:\Users\Anabel\source\repos\Semana9Foro\Semana9Foro\bin\Debug\net6.0\Semana9Foro.runtimeconfig.json
+C:\Users\Anabel\source\repos\Semana9Foro\Semana9Foro\bin\Debug\net6.0\Semana9Foro.dll
+C:\Users\Anabel\source\repos\Semana9Foro\Semana9Foro\bin\Debug\net6.0\Semana9Foro.pdb
+C:\Users\Anabel\source\repos\Semana9Foro\Semana9Foro\obj\Debug\net6.0\Semana9Foro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anabel\source\repos\Semana9Foro\Semana9Foro\obj\Debug\net6.0\Semana9Foro.AssemblyInfoInputs.cache
+C:\Users\Anabel\source\repos\Semana9Foro\Semana9Foro\obj\Debug\net6.0\Semana9Foro.AssemblyInfo.cs
+C:\Users\Anabel\source\repos\Semana9Foro\Semana9Foro\obj\Debug\net6.0\Semana9Foro.csproj.CoreCompileInputs.cache
+C:\Users\Anabel\source\repos\Semana9Foro\Semana9Foro\obj\Debug\net6.0\Semana9Foro.dll
+C:\Users\Anabel\source\repos\Semana9Foro\Semana9Foro\obj\Debug\net6.0\refint\Semana9Foro.dll
+C:\Users\Anabel\source\repos\Semana9Foro\Semana9Foro\obj\Debug\net6.0\Semana9Foro.pdb
+C:\Users\Anabel\source\repos\Semana9Foro\Semana9Foro\obj\Debug\net6.0\Semana9Foro.genruntimeconfig.cache
+C:\Users\Anabel\source\repos\Semana9Foro\Semana9Foro\obj\Debug\net6.0\ref\Semana9Foro.dll
